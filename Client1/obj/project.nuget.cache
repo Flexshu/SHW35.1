@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRY0ChRfCAM=",
+  "success": true,
+  "projectFilePath": "/Users/Yehor/Documents/Єгора/C#/HW35.1/Client1/Client1.csproj",
+  "expectedPackageFiles": [
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.connections.abstractions/9.0.0/microsoft.aspnetcore.connections.abstractions.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.http.connections.client/9.0.0/microsoft.aspnetcore.http.connections.client.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.http.connections.common/9.0.0/microsoft.aspnetcore.http.connections.common.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.signalr.client/9.0.0/microsoft.aspnetcore.signalr.client.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.signalr.client.core/9.0.0/microsoft.aspnetcore.signalr.client.core.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.signalr.common/9.0.0/microsoft.aspnetcore.signalr.common.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/9.0.0/microsoft.aspnetcore.signalr.protocols.json.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0/microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.features/9.0.0/microsoft.extensions.features.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.logging/9.0.0/microsoft.extensions.logging.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/system.management/8.0.0/system.management.8.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/system.net.serversentevents/9.0.0/system.net.serversentevents.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/system.threading.channels/9.0.0/system.threading.channels.9.0.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/Yehor/.nuget/packages/terminal.gui/1.17.1/terminal.gui.1.17.1.nupkg.sha512"
+  ],
+  "logs": []
+}
